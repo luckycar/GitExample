@@ -24,6 +24,10 @@ class ViewController: UIViewController {
     func sayHello() {
         print("Hello World!")
     }
+    
+    func testMaster() {
+        print("This is master Branch!")
+    }
 
 
 }
