@@ -28,6 +28,10 @@ class ViewController: UIViewController {
     func testMaster() {
         print("This is master Branch!")
     }
+    
+    func testBranch() {
+        print("This is test Branch!")
+    }
 
 
 }
