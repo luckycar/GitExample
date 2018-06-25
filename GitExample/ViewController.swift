@@ -36,6 +36,10 @@ class ViewController: UIViewController {
     func testOrginalUserPush() {
         print("This is from original user!")
     }
+    
+    func testNewUserPush() {
+        print("This is from new user!")
+    }
 
 
 }
