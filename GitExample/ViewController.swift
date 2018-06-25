@@ -32,6 +32,10 @@ class ViewController: UIViewController {
         print("This is test Branch!")
     }
     
+    func testOrginalUserPush() {
+        print("This is from original user!")
+    }
+    
     func testNewUserPush() {
         print("This is from new user!")
     }
